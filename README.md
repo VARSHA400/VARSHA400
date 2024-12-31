@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VARSHA400
 - 👀 I’m interested in designing and coding
-- 🌱 I’m currently learning third year 
+- 🌱 I’m currently working as a DBA 
 - 📫 How to reach me varshaukf@gmail.com
 
 <!---
